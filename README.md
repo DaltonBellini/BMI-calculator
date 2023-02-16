@@ -1,1 +1,1 @@
-https://daltonbellini.github.io/BMI-calculator/
+https://daltonliebl.github.io/BMI-calculator/
